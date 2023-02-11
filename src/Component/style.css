@@ -1,0 +1,49 @@
+body{
+    background: #bdc3c7;
+    background-image: url("C:\Users\india mobile\OneDrive\Desktop\FitnessForm\360_F_113657105_Bktota7BzQ5cEUcZb4l0D4qSD2Sw08P2.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+.form{
+    background-color: white;
+    border-radius: 5px;
+    width: 600px;
+    margin: 20px auto;
+    padding: 20px;
+    /* height: 600px; */
+}
+
+.form-body{
+    text-align: center;
+    padding: 20px 10px;
+}
+
+.form-body > *{
+    padding: 5px;
+    text-align: center;
+    border-radius: 10%;
+    width:auto
+}
+
+.form__label{
+    width: 100%;
+}
+
+.form_input{
+    width: 100%;
+}
+
+.footer{
+    text-align: center;
+}
+.btn{
+    background-color: rgb(0, 102, 255);
+}
+.button{
+    background-color: rgb(0, 102, 255);
+}
+.last{
+    padding: 10px;
+    border-radius: 40px;
+}
